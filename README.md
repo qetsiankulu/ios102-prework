@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 The following **additional** features are implemented:
 
 - [ x ] Stylized "Introduce Self" Button
-- [ x } Custom UCLA Color Palette
+- [ x ] Custom UCLA Color Palette
 
 ## Video Walkthrough
   <div>
