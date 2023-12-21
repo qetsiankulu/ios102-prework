@@ -2,7 +2,7 @@
 
 Submitted by: **Qetsia Nkulu**
 
-**TumblrLite2.0** is an app that showcases a Bruin-oriented experience by displaying UCLA's logo and allowing users to input their first and last names along with their UCLA school name. Users can also specify their student year using a segmented control, adjust the number of  pet owned with a stepper, express their preference for more pets or not using a switch, and finally, initiate a friendly introduction through an alert box with the "Introduce Yourself" button.
+**BruinIntro* is an app that showcases a Bruin-oriented experience by displaying UCLA's logo and allowing users to input their first and last names along with their UCLA school name. Users can also specify their student year using a segmented control, adjust the number of  pet owned with a stepper, express their preference for more pets or not using a switch, and finally, initiate a friendly introduction through an alert box with the "Introduce Yourself" button.
 
 Time spent: **6** hours spent in total
 
