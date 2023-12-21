@@ -1,30 +1,30 @@
-# Project 6 - *TumblrLite2.0*
+# Prework - *BruinIntro*
 
 Submitted by: **Qetsia Nkulu**
 
-**TumblrLite2.0** is an app that fetches a feed of blog posts from the Tumblr API and displays them in a scrolling list via a table view. It also gives users the ability to navigate to a detail view by tapping a blog post in the main tumblr feed.
+**TumblrLite2.0** is an app that showcases a Bruin-oriented experience by displaying UCLA's logo and allowing users to input their first and last names along with their UCLA school name. Users can also specify their student year using a segmented control, adjust the number of  pet owned with a stepper, express their preference for more pets or not using a switch, and finally, initiate a friendly introduction through an alert box with the "Introduce Yourself" button.
 
-Time spent: **1** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
-
-- [ x ] Setup navigation to the Detail Screen
-- [ x ] Created the Detail View UI
-- [ x ] Add the ability to pass data to the Detail View Controller
-- [ x ] Made personal finishing touches to the UI
-
+- [ x ] App displays an image of a school's logo
+- [ x ] App has three textfields for first, last, and school names
+- [ x ] App has a segmented control that changes student year
+- [ x ] Number of pet matches label is increased/decreased by stepper
+- [ x ] Switch makes a statement about wanting more pets or not(true/false)
+- [ x ] Introduce yourself button shows alert box with an introduciton and dismiss button
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [ x ] Stylized "Introduce Self" Button
+- [ x } Custom UCLA Color Palette
 
 ## Video Walkthrough
-
-<div>
-    <a href="https://www.loom.com/share/42390d03acf941ee990e91653f49a464">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/42390d03acf941ee990e91653f49a464-with-play.gif">
+  <div>
+    <a href="https://www.loom.com/share/c84c1b6fe438437588e3490bb41ccb8c">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c84c1b6fe438437588e3490bb41ccb8c-with-play.gif">
     </a>
   </div>
 
